@@ -1,3 +1,3 @@
-This file is second one.
-This is the second line of this file.
-And this is the third line.
+I remove the first line.
+This is the second line.
+This is the third line.
